@@ -80,9 +80,4 @@ network-sniffer-web/
 - **Styling**: Override Bootstrap variables or add custom CSS in `index.html`.
 - **Flow Features**: Extend `PacketInfo` and `Sniffer` to include additional metadata.
 
----
-
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
